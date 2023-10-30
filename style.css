@@ -1,0 +1,35 @@
+.custom-box{ 
+    height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+body{
+    background-color: rgb(10, 28, 52);
+}
+
+.custom-box h1{
+    color: rgb(130, 137, 151);
+}
+
+.custom-box h2{
+    color: white;
+}
+
+
+.form-container{
+    display: flex;
+    width: 90%;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.right1{
+    margin-left: 400px; 
+}
