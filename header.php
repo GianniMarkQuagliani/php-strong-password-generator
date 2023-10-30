@@ -12,4 +12,7 @@
         <div class="custom-box d-flex flex-column align-items-center justify-content-center">
             <h1>Strong Password Generator</h1>
             <h2>Genera una password sicura</h2>
+            <div class="error my-3">
+                <p><?php echo $msg ?></p>
+            </div>
             

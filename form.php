@@ -10,7 +10,7 @@
         </div>
         <div>
             <button type="submit" class="btn btn-primary" name="generate">Invia</button>
-            <button type="button" class="btn btn-secondary" onclick="location.href='index.php'">Resetta</button>
+            <button type="button" class="btn btn-secondary" onclick="location.href='index.php'">Annulla</button>
         </div>
     </form>
 </div>
